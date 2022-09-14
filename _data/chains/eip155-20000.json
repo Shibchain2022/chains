@@ -1,0 +1,25 @@
+{
+  "name": "Shibchain Mainnet",
+  "chain": "SC",
+  "icon": "shibchain",
+  "rpc": [
+    "https://rpc.shibchain.app"
+  ],
+  "faucets": [],
+  "nativeCurrency": {
+    "name": "Shibcoin",
+    "symbol": "SHIB",
+    "decimals": 18
+  },
+  "infoURL": "https://shibchain.app",
+  "shortName": "sc",
+  "chainId": 2319,
+  "networkId": 2319,
+  "explorers": [
+    {
+      "name": "shibchain explorer",
+      "url": "https://explorer.shibchain.app/",
+      "standard": "EIP3091"
+    }
+  ]
+}
